@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<style type="text/css">
+body, html {
+    font-family: Georgia, serif !important;
+	font-size: 16px;
+}
+
+.STYLE188, .STYLE200, .STYLE248, .STYLE249, .STYLE250, .STYLE258 {
+	font-family: Georgia, serif !important;
+	font-size: 16px;
+}
+
+h4 {
+    font-size: 20px;
+	font-family: Georgia, serif;
+}
+
+a {
+    color: #0d458a !important;
+    text-decoration: none !important;
+}
+</style>
+<html>
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="en, zh">
+	<meta name="description" content="Danfu Yuan's Homepage: Ph.D candidate at Xi'an Jiaotong University">
+	<title> Danfu Yuan's Homepage</title>
+</head>
+
+<body style="font-family:Tahoma;">
+	<div style="width: 50%; margin-left: 20%; margin-right: 15%; margin-top: 1%; margin-bottom: 1%; padding: 5%; line-height:150%;">
+		<table width="100%">
+			<tr>
+				<td width="20%">
+					<img width="80%" src="danfu.jpg" alt="img" title="Danfu Yuan" /--> </td> <td width="50%">
+					<h1> <span> Danfu Yuan (袁丹夫)</span> </h1>
+					<br>Ph.D Candidate<br>
+					<a href="http://www.cs.xjtu.edu.cn/">Department of Computer Science and Technology</a><br>
+					<a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University<br></a>
+					Room 6020, Hongli Building, XJTU.<br>
+					IHarbour, Xi'an, China.<br>
+					Expected graduation year: 2026.<br>
+					<br>Email: danfuyuan20 [AT] gmail.com</a>
+					<br>Also find me at: <a href="https://scholar.google.com/citations?user=VuhJGf8AAAAJ&hl=en&oi=ao">Google Scholar</a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Danfu-Yuan">ResearchGate</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/yuandanfu">Github</a>
+				</td>
+			</tr>
+		</table>
+		<div>
+			<p>
+				<h2> About Me </h2>
+				<hr />
+				I'm a third-year Ph.D student in the <a href="http://www.cs.xjtu.edu.cn/">Department of Computer Science and Technology</a> at <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>, advised by <a href="https://gr.xjtu.edu.cn/en/web/zhangwzh123">Prof. Weizhan Zhang</a>. 
+				In 2020, I received my bachelor degree from <a href="http://www.cee.cqu.edu.cn/">Department of Electronic Engineering</a> at <a href="https://www.cqu.edu.cn/">Chongqing University</a>. My research work has centered on networking, content delivery, and also multimedia streaming, especially with practical applications in large-scale production systems.</br>
+			</p>
+
+			<p>
+				<h2> Recent News </h2>
+				<hr />
+				<ul>
+					<li>[01/2025] <b>(Paper)</b> One paper is accepted by IEEE TCSVT (JCR Q1).</li>
+					<li>[05/2024] <b>(Paper)</b> One paper is accepted by IEEE/ACM TON (CCF A).</li>
+					<li>[11/2023] <b>(Career)</b> I join in the Edge Networking Team at Alibaba Cloud as a research intern.</li>
+				</ul>
+			</p>
+			
+			<p>
+				<h2> Publications </h2>
+				<hr />
+				<ul>
+					<p><li><b>Understanding Operational CDN Live Streaming: A Measurement Study on Performance, Costs and Enhancements</b><br>
+						<b>Danfu Yuan</b>, Weizhan Zhang, Haiyu Huang, Kai Xiao, Yunfei Ma, Xuan Zeng, Peng Chen, Hongfei Yan, Yubing Qiu, Mingliang Yang, Songlin Li, Jinghui Zhong, Bin Xie<br>
+						<i>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 2025.</i><br>
+						<a href="">[PDF]</a><br>
+					</li></p>
+					<p><li><b>Context-Aware Cross-Layer Congestion Control for Large-Scale Live Streaming</b><br>
+						<b>Danfu Yuan</b>, Weizhan Zhang, Yubing Qiu, Haiyu Huang, Mingliang Yang, Peng Chen, Kai Xiao, Hongfei Yan, Yaming He, Yiping Zhang<br>
+						<i>IEEE/ACM Transactions on Networking (IEEE/ACM TON), 2024.</i><br>
+						<a href="./xcc-ton24.pdf">[PDF]</a><br>
+					</li></p>
+					<p><li><b>PRIOR: Deep Reinforced Adaptive Video Streaming with Attention-Based Throughput Prediction</b><br>
+						<b>Danfu Yuan</b>, Yuanhong Zhang, Weizhan Zhang, Xuncheng Liu, Haipeng Du, Qinghua Zheng<br>
+						<i>ACM NOSSDAV, 2022.</i><br>
+						<a href="./prior-nossdav22.pdf">[PDF]</a><br>
+					</li></p>
+					<p><li><b>Dynamic Push for HTTP Adaptive Streaming with Deep Reinforcement Learning</b><br>
+						Haipeng Du, <b>Danfu Yuan (first-student author)</b>, Weizhan Zhang, Qinghua Zheng<br>
+						<i>IEEE ICPADS, 2021.</i><br>
+						<a href="https://ieeexplore.ieee.org/abstract/document/9763767">[PDF]</a>
+					</li></p>
+				</ul>
+			</p>
+
+			<p>
+				<h2> Internships </h2>
+				<hr />
+				<ul>
+					<li>11/2023 - Present, Research Intern @ <a href="https://cn.aliyun.com/"><b>Alibaba Cloud</b></a>, Edge Networking, Hangzhou, China.</li>
+					<li>08/2022 - 08/2023, Research Intern @ <a href="https://cn.aliyun.com/"><b>Alibaba Cloud</b></a>, Video Cloud, Hangzhou, China.</li>
+				</ul>
+			</p>
+
+			<p>
+				<h2> Honors and Awards </h2>
+				<hr />
+				<ul>
+					<li>10/2024, Special Graduate Academic Scholarship, XJTU.</li>
+					<li>10/2024, Outstanding Graduate Student Award, XJTU.</li>
+					<li>10/2023, Special Graduate Academic Scholarship, XJTU.</li>
+					<li>10/2022, Outstanding Graduate Student Award, XJTU.</li>
+					<li>09/2020, Special Freshman Graduate Academic Scholarship, XJTU.</li>
+				</ul>
+			</p>
+	
+			<p>
+				<h2> Professional Activities </h2>
+				<hr />
+				<ul>
+					<p><li>PC member/Reviewer:<br>
+						<ul>
+							<li>BigDataSE 2024<br></li>
+							<li>Computer Communications<br></li>
+						</ul>
+					</li></p>
+				</ul>
+			</p>
+	</body>
+</html>
